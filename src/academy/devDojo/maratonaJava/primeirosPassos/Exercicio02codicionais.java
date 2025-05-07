@@ -2,7 +2,7 @@ package academy.devDojo.maratonaJava.primeirosPassos;
 
 import java.util.Scanner;
 
-public class Exercicio02 {
+public class Exercicio02codicionais {
 
 
 
